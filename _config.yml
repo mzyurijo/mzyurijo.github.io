@@ -4,5 +4,4 @@ theme: just-the-docs
 
 url: https://mzyurijo.github.io
 
-plugins:
-- jekyll-default-layout
+
